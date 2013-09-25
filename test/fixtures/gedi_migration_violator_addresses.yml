@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  violator: 
+  desc: MyString
+  number: MyString
+  district: MyString
+  city: MyString
+  state: MyString
+
+two:
+  violator: 
+  desc: MyString
+  number: MyString
+  district: MyString
+  city: MyString
+  state: MyString

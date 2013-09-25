@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date: 2013-09-25
+  hour: 2013-09-25 07:46:42
+  violator: 
+  code: MyString
+  variant: MyString
+  speed_legal: 1.5
+  speed_computed: 1.5
+  equipment: 
+  lane: 1
+
+two:
+  date: 2013-09-25
+  hour: 2013-09-25 07:46:42
+  violator: 
+  code: MyString
+  variant: MyString
+  speed_legal: 1.5
+  speed_computed: 1.5
+  equipment: 
+  lane: 1
